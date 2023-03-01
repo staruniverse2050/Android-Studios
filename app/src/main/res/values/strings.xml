@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Componentes Básicos</string>
+    <string name="titulo">Operaciones Matematicas</string>
+    <string name="mensaje">Este es un ejemplo del texto que se presentará en pantalla sobre la
+    aplicacion de operaciones matematicas</string>
+</resources>
